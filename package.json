@@ -1,0 +1,26 @@
+{
+  "name": "tech-work-life-tips",
+  "description": "Information and resources related to the work life in the Tech industry. With interview questions (and example answers), both once you can get and once you can give. Tips on how to manage the work life balance. Links to other websites and repositories.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frk-sandkake/tech-work-life-tips.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frk-sandkake/tech-work-life-tips/issues"
+  },
+  "homepage": "https://github.com/frk-sandkake/tech-work-life-tips#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "vite": "^4.0.4"
+  }
+}
